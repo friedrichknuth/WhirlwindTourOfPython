@@ -1,0 +1,5 @@
+name: wwtp
+channels:
+  - conda-forge
+dependencies:
+  - numpy
