@@ -1,5 +1,7 @@
 # A Whirlwind Tour of Python
 
+[![badge](https://img.shields.io/static/v1.svg?logo=mybinder&label=Launch+App&message=mybinder&color=green)](https://mybinder.org/v2/gh/friedrichknuth/WhirlwindTourOfPython/binder?urlpath=/proxy/5009/dashboard) 
+
 *Jake VanderPlas, Summer 2016*
 
 This repository contains the Jupyter Notebooks behind my O'Reilly report,
