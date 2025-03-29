@@ -7,5 +7,5 @@ dependencies:
   - matplotlib
   - scipy
   - scikit-learn
-  - ipython
+  - ipympl
   
